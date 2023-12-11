@@ -13,6 +13,7 @@ This HTML file is the main page of the project. (Add more details about what thi
 
 ## How to Run
 
+https://dudi62.github.io/financial-dataset/
 1. Open `index.html` in your web browser to view the webpage.
 2. Run `index.js` in a JavaScript environment (like Node.js or a browser console) to see the financial statistics logged.
 
