@@ -7,13 +7,13 @@ This project includes two main files: `index.js` and `index.html`.
 This JavaScript file contains code to calculate and log financial statistics. It calculates the total number of months, total profit/loss, average change in profit/loss, date and amount of the greatest increase in profits, and date and amount of the greatest decrease in profits from a given `finances` array.
 
 ## index.html
-![fiancial](https://github.com/dudi62/financial-dataset/assets/63518444/d0e551f3-aec9-4e7c-9269-ba4659a70e5f)
+![fiancial](https://github.com/dudi62/Console-Finances/assets/63518444/2a70b8bf-7ffb-4844-bbce-87a54b340ab2)
 
 This HTML file is the main page of the project. (Add more details about what this file does or what the webpage looks like)
 
 ## How to Run
 
-https://dudi62.github.io/financial-dataset/
+https://dudi62.github.io/Console-Finances/
 1. Open `index.html` in your web browser to view the webpage.
 2. Run `index.js` in a JavaScript environment (like Node.js or a browser console) to see the financial statistics logged.
 
